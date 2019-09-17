@@ -1,0 +1,16 @@
+TBX-Checker 2019
+Validation Results
+05:21:36 - 2019-04-10
+File saved to: /Users/kadencarr/Desktop/TBXChecker2.0/tbxutils
+
+Current rng validation file path:
+/Users/kadencarr/Desktop/TBXChecker2.0/tbxutils/libs/TBX-Basic_dialect-master/DCA/TBXcoreStructV03_TBX-Basic_integrated.rng
+Current sch validation file path:
+/Users/kadencarr/Desktop/TBXChecker2.0/tbxutils/libs/TBX-Basic_dialect-master/DCA/TBX-Basic_DCA.sch
+
+
+The dialect of your file was automatically detected to be TBX-Basic.
+
+
+Valid! Successful validation against the RNG file.
+Valid! Successful validation against the SCH file.
